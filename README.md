@@ -17,6 +17,7 @@ health, fire, building, water, wastewater, and financial gates are cleared.
 - [Operations plan](docs/operations-plan.md)
 - [Business plan](docs/business-plan.md)
 - [Financial model](data/financial-model.csv)
+- [Interactive financial workbook](models/kiva-financial-model.xlsx)
 - [Property-value scenarios](data/property-value-scenarios.csv)
 - [Equipment schedule](data/equipment-schedule.csv)
 - [Risk register](data/risk-register.csv)

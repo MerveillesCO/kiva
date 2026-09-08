@@ -122,6 +122,20 @@ Illustrative mature case for testing—not a forecast:
 | Target contribution margin | 35% |
 | **Contribution before property overhead and capital** | **$52,920** |
 
+That $52,920 figure excludes annual insurance, marketing, administration, and
+other fixed operating costs. The interactive workbook currently assumes $25,000
+of such costs in the permanent case, reducing operating contribution to $28,000
+and margin to 18.5 percent. The earlier 35 percent target remains a construction
+gate, not a result supported by the present assumptions.
+
+At the base $430,000 capital case and a purely illustrative $172,000 appraised
+value contribution, $258,000 remains to be justified. Recovering that amount over
+ten years adds $25,800 per year to the operating requirement. At 40 nights,
+$105 revenue per cover, and $45 variable cost per cover, the model requires about
+35.1 covers per night to cover nightly costs, annual fixed costs, and that simple
+capital-recovery target. This is close to the assumed 36-cover attendance and
+leaves little room for misses, financing cost, taxes, or major repairs.
+
 This scale exceeds the intimate launch model and may trigger materially different
 land-use, parking, fire, sanitation, staffing, and neighbor requirements. It is a
 financial threshold to investigate, not permission to operate.
@@ -197,3 +211,6 @@ base case.
 - El Paso County residential valuation: <https://assessor.elpasoco.com/residential-real-estate/>
 - El Paso County appraisal and permit follow-up: <https://assessor.elpasoco.com/appeals-process-notice-valuation/>
 - Colorado Division of Real Estate appraiser guidance: <https://dre.colorado.gov/sites/dre/files/documents/New%20Appraiser%20Handbook_2025-03.pdf>
+
+The editable model is available at
+[`models/kiva-financial-model.xlsx`](../models/kiva-financial-model.xlsx).
