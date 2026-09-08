@@ -136,6 +136,13 @@ $105 revenue per cover, and $45 variable cost per cover, the model requires abou
 capital-recovery target. This is close to the assumed 36-cover attendance and
 leaves little room for misses, financing cost, taxes, or major repairs.
 
+The same assumptions imply operating cost of about $85.56 per served cover. A
+35 percent operating contribution margin therefore requires about **$132 per
+cover before capital recovery**. If the $25,800 annual simple capital-recovery
+target is treated as an additional required return, the corresponding 35 percent
+price is about **$159 per cover**. These are mathematical thresholds, not evidence
+that customers will pay them.
+
 This scale exceeds the intimate launch model and may trigger materially different
 land-use, parking, fire, sanitation, staffing, and neighbor requirements. It is a
 financial threshold to investigate, not permission to operate.
@@ -148,6 +155,11 @@ Pilot tests should compare:
 - $85 stand-alone smokehouse supper;
 - $105 premium supper with a nonalcoholic pairing; and
 - $125 chef-table collaboration.
+
+Add $135, $150, and $160 concepts to research before permanent design. The first
+pilot should still test a credible launch offer rather than charging a permanent-
+building price for a temporary setup. See the [demand and pricing validation
+plan](demand-pricing-plan.md).
 
 Record conversion, refunds, dietary requests, plate cost, waste, labor minutes,
 guest ratings, and repeat/referral intent. Do not use alcohol margin to rescue the
