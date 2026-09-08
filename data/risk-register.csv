@@ -1,0 +1,16 @@
+id,category,risk,likelihood,impact,primary_control,trigger_or_evidence,owner,status
+R01,land_use,Onsite paid dining or food facility is not approvable in RR-5,Medium,Critical,Written Planning determination before investment,Agency response,Owner,Open
+R02,health,Proposed temporary model is not a qualifying special event,Medium,High,Present alternatives and obtain written classification,Public Health determination,Owner,Open
+R03,water,Domestic well cannot legally or reliably serve food use,Medium,Critical,Water-source review testing and capacity study,Written approval and test results,Owner,Open
+R04,wastewater,Residential OWTS cannot accept commercial flow or grease,High,Critical,Measure pilot flow and obtain OWTS/grease determination,Written feasibility and budget,Owner,Open
+R05,fire,Solid-fuel smoker clearance or suppression cost is prohibitive,Medium,High,Submit exact listed appliance early,Fire/building pre-design response,Design lead,Open
+R06,demand,Demand is limited to eight faire weekends,High,High,Test standalone and non-faire channels,Deposit-backed sales and repeat intent,Owner,Open
+R07,economics,Contribution cannot support permanent capital,High,Critical,Require 35% margin and $150k revenue path,Trailing service data and forecast,Owner,Open
+R08,property_value,Specialized improvement contributes little resale value,Medium,High,Adaptive design and appraiser plan review,Appraiser/lender/insurer opinions,Owner,Open
+R09,neighbor,Smoke traffic light or noise creates complaints,Medium,High,Site screening small reservation count and operating limits,Complaint log and dispersion tests,Owner,Open
+R10,food_safety,Time-temperature or cross-contamination failure,Medium,Critical,Approved process logs training and stop-service authority,Audit logs and corrective actions,Person in charge,Open
+R11,allergen,Undeclared allergen or cross-contact harms guest,Medium,Critical,Allergen matrix reservation disclosures and dedicated controls,Menu audit and incident log,Person in charge,Open
+R12,weather,Wind cold heat or wildfire restriction disrupts service,High,Medium,Published cancellation policy and objective go/no-go check,Forecast and fire restrictions,Owner,Open
+R13,staffing,Small team cannot safely execute service,Medium,High,Timed rehearsals role clarity and minimum staffing,Service timing and exceptions,Production lead,Open
+R14,cost,Site utilities exceed allowance,High,High,Early written feasibility and competitive quotes,Base utility scope above $35000,Owner,Open
+R15,classification,Commercial use changes financing insurance or tax treatment,Medium,High,Preconstruction lender insurer and assessor review,Written opinions and quotes,Owner,Open

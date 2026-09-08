@@ -23,6 +23,16 @@ service is prohibited. Extensive preparation must occur at the event's licensed
 establishment or an approved licensed commissary. New fixed establishments
 require plan review before construction.
 
+## Current building-code basis
+
+As of June 30, 2026, Pikes Peak Regional Building Department identifies the 2023
+Pikes Peak Regional Building Code, second printing, as current. Its adopted model
+codes include the 2021 IBC, IMC, IFGC, IPC, IECC and IEBC, plus the 2023 NEC.
+Designers must verify amendments and the code set in effect when an application is
+submitted. Kiva's occupancy, accessibility, plumbing-fixture count, ventilation,
+commercial-cooking exhaust, suppression, gas/fuel, energy, and electrical scope
+remain agency determinations—not assumptions in this plan.
+
 ## Launch menu boundary
 
 ### Included
@@ -118,6 +128,7 @@ costs are additional. Verify all amounts at application time.
 - El Paso County Public Health fee regulations: <https://www.elpasocountyhealth.org/about-public-health/regulations/>
 - Colorado retail-food resources: <https://cdphe.colorado.gov/retail-food/retail-food-resources>
 - Pikes Peak Regional Building permits: <https://www.pprbd.org/Home/permits>
+- Pikes Peak Regional Building current codes: <https://alpha.pprbd.org/Information/Codechanges>
 - Tri-Lakes Monument Fire: <https://www.tlmfire.org/>
 
 This plan is an operating design basis, not an agency approval.

@@ -12,9 +12,13 @@ health, fire, building, water, wastewater, and financial gates are cleared.
 
 - [Design and building plan](docs/design-building-plan.md)
 - [Food-safety and permitting plan](docs/regulatory-food-plan.md)
+- [Equipment and utilities plan](docs/equipment-utilities-plan.md)
+- [Operations plan](docs/operations-plan.md)
 - [Business plan](docs/business-plan.md)
 - [Financial model](data/financial-model.csv)
 - [Property-value scenarios](data/property-value-scenarios.csv)
+- [Equipment schedule](data/equipment-schedule.csv)
+- [Risk register](data/risk-register.csv)
 
 ## Current decisions
 

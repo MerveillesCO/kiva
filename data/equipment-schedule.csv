@@ -1,0 +1,17 @@
+stage,system,item,quantity,capacity_basis,utility,listing_or_approval,budget_status,gate
+B,temperature_control,Insulated cold carriers,TBD,One approved service at 41F or below,None,Food-grade/health approval,Quote,Loaded duration test
+B,temperature_control,Powered hot holding,1,Peak batch at 135F or above,TBD,Commercial sanitation listing,Quote,Recovery test and health approval
+B,cooking,Outdoor smoker,1,Approved batch size,TBD,Commercial listing plus fire approval,Quote,Exact model accepted by health/building/fire
+B,hygiene,Portable hands-free handwash,1,Entire service plus reserve,TBD,Health approval,Quote,Flow temperature and wastewater test
+B,sanitation,Utensil changeout set,TBD,Four-hour rotation,None,Food-grade,Estimate,Commissary return accepted
+B,monitoring,Probe thermometers,2,0-220F minimum,Battery,Commercial food use,Estimate,Ice-point calibration
+C,refrigeration,Two-door reach-in,1,Peak inventory with raw/RTE separation,TBD,NSF/ANSI or accepted equivalent,Quote,Approved equipment plan and cut sheet
+C,warewashing,Three-compartment sink,1,Largest utensil and required drainboards,Hot/cold water and drain,Health/plumbing approval,Quote,Fixture schedule and wastewater approval
+C,hygiene,Dedicated hand sinks,TBD,Approved work locations,Hot/cold water and drain,Health/plumbing approval,Quote,Approved floor plan
+C,food_prep,Preparation sink,TBD,Approved onsite washing process,Hot/cold water and drain,Health/plumbing approval,Quote,Menu requires and plan accepts
+C,cooking,Outdoor commercial smoker,1,Peak approved batch,TBD,Commercial listing plus fire approval,Quote,Clearance fuel ash and fire plan accepted
+C,hot_process,Rapid reheat/cook equipment,TBD,Approved batch recovery,TBD,Commercial sanitation listing,Quote,Menu process and cut sheet accepted
+C,hot_holding,Holding cabinet,TBD,Peak plated/batched service,TBD,Commercial sanitation listing,Quote,Loaded recovery test
+C,janitorial,Mop or service sink,1,Cleaning demand,Hot/cold water and drain,Health/plumbing approval,Quote,Approved floor plan
+C,mechanical,Ventilation/makeup air/suppression,TBD,Selected appliances,TBD,Building/fire approval,Quote,Stamped design if required
+C,utilities,Water heater,1,Simultaneous fixture demand,TBD,Plumbing/energy approval,Quote,Engineer sizing and recovery calculation
