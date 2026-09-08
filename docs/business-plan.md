@@ -37,6 +37,13 @@ not convert food service into a lawful residential home occupation. The launch
 model is contingent on Planning identifying a temporary or discretionary land-use
 path and Public Health identifying the corresponding food-license path.
 
+Merveilles may ultimately be a bona fide social and cultural club, but entity
+form does not replace the commercial base case at this stage. Until written
+agency and tax advice supports another structure, use the owner-operated
+food/event economics in this plan. The [entity operating models](entity-operating-models.md)
+separate the club, licensed-operator, and private-hosting alternatives and their
+money flows.
+
 ## Corrected unit economics
 
 The AfterFaire source contains both $18 and $24 food-cost assumptions. Kiva adopts

@@ -13,6 +13,7 @@ health, fire, building, water, wastewater, and financial gates are cleared.
 - [Design and building plan](docs/design-building-plan.md)
 - [Land-use and entitlement plan](docs/land-use-entitlement-plan.md)
 - [Merveilles private-club pathway](docs/private-club-pathway.md)
+- [Merveilles and Kiva entity operating models](docs/entity-operating-models.md)
 - [Site and architectural concept](docs/site-architectural-concept.md)
 - [Draft Zoning Verification Letter request](docs/zoning-verification-letter-request.md)
 - [Draft Public Health club inquiry](docs/public-health-club-inquiry.md)
