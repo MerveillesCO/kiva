@@ -15,6 +15,7 @@ health, fire, building, water, wastewater, and financial gates are cleared.
 - [Merveilles private-club pathway](docs/private-club-pathway.md)
 - [Site and architectural concept](docs/site-architectural-concept.md)
 - [Draft Zoning Verification Letter request](docs/zoning-verification-letter-request.md)
+- [Draft Public Health club inquiry](docs/public-health-club-inquiry.md)
 - [Food-safety and permitting plan](docs/regulatory-food-plan.md)
 - [Equipment and utilities plan](docs/equipment-utilities-plan.md)
 - [Operations plan](docs/operations-plan.md)

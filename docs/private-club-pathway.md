@@ -106,7 +106,8 @@ identify a lawful route.
 
 1. Add the bona fide-club scenario to the Zoning Verification Letter.
 2. Request a no-cost written/email issue-spotting response from Public Health
-   specifically on the nonprofit-event exclusion before filing an RFE site review.
+   specifically on the nonprofit-event exclusion before filing an RFE site review,
+   using the [draft inquiry](public-health-club-inquiry.md).
 3. Hold a founder workshop to decide whether Merveilles is genuinely intended to
    be member-governed and nonprofitable, independent of permitting advantages.
 4. If yes, obtain Colorado nonprofit and federal tax advice before formation or
