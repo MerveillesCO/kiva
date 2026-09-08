@@ -17,11 +17,14 @@ The architecture should separate five flows:
 
 ## Recommended site relationship
 
-Locate Kiva in the existing barn/chateau service zone, not among campsites. Use
-the existing driveway for deliveries and fire access. The smoker and refuse side
-should face the service approach; the clean pass and guest table should face the
-garden. Screen operations from Capella Drive and neighboring homes without
-blocking fire access, ventilation, or sanitation service.
+Locate Kiva immediately west of the house, beyond the existing open patio, not
+among campsites. This owner-confirmed location supersedes the earlier barn-zone
+assumption. Use the existing driveway as the starting point for delivery and fire
+access design, subject to authority review. Kiva's clean pass and guest entrance
+should face back toward the patio and house. Its smoker, refuse, ash, and dirty-
+return edge should face away from the patio, with smoke direction confirmed by
+field observation and fire review. Screen operations from Capella Drive and
+neighboring homes without blocking access, ventilation, or sanitation service.
 
 A surveyed site plan must confirm setbacks, easements, well and onsite wastewater
 locations, drainage, fire access, parking, accessible route, and utility runs.

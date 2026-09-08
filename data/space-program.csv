@@ -1,0 +1,12 @@
+zone,base_area_sf,range_low_sf,range_high_sf,adjacency,critical_requirement
+Receiving and dry storage,55,45,70,Service entry and refrigeration,Protected receiving and cleanable shelving
+Refrigerated storage,45,35,60,Receiving and clean prep,Raw and ready-to-eat separation
+Clean preparation and finishing,110,90,130,Cold storage smoker transfer and service pass,One-direction clean workflow
+Warewashing and dirty return,85,70,100,Service-side return and janitorial,No crossing with clean service
+Handwashing and staff support,35,25,45,Prep and warewashing,Dedicated accessible handwashing
+Mechanical and janitorial,40,30,50,Service wall and exterior access,Mop sink water heating panels and chemical separation
+Circulation walls and clearances,130,80,145,All enclosed zones,Equipment door and accessible clearances
+Total enclosed program,500,400,600,None,Final total follows approved equipment plan
+Exterior smoker yard,200,150,300,Service drive and clean transfer,Noncombustible secured and fire-approved
+Guest terrace,500,350,750,Clean service pass and garden,Capacity parking accessibility and sanitation approval
+

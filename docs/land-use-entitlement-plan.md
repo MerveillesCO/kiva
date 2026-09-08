@@ -114,6 +114,37 @@ and pilot—not a business capable of supporting a $430,000 build.
    cost, probability, time, operating cap, and property effect.
 6. File only when the likely approval supports the intended economics.
 
+## Current procedural direction
+
+On September 8, 2026, owner-reported guidance from County planner Lacey Dean was
+that an Early Assistance meeting probably is not necessary and that the owner can
+request a Zoning Verification Letter. Follow that direction unless the County
+changes it in writing. EDARP describes the Zoning Verification Letter as the
+project type for verifying zoning, state verifications, and allowed uses; its fee
+is based on the hourly research fee.
+
+Submit the [draft request](zoning-verification-letter-request.md) as a factual
+request for classification. Do not ask the letter to approve an undefined future
+restaurant. Ask it to state what is allowed, what is not, and which application
+would be required for each clearly bounded scenario.
+
+## Denver home-omakase comparison
+
+The Westword article about Domī describes four invite-only guests and a suggested
+minimum $100 donation at a Five Points townhouse. The article does not identify a
+zoning permit, retail-food license, commissary, or inspection. A second article
+places it at 2360 Curtis Street, a property reported as D-AS, a mixed-use downtown
+zone—not a rural-residential district comparable to RR-5.
+
+This example therefore shows a low-visibility operating tactic, not a verified
+legal pathway. Calling payment a donation does not necessarily remove food or
+land-use regulation. Denver says all businesses require a zoning use permit and
+identifies eating/drinking establishments separately; Denver home-occupation
+"Food Preparation" is framed around off-premises consumption. Kiva should ask El
+Paso County whether a genuinely private, host-invited meal with no required
+payment is outside its land-use regulation, and separately whether any suggested,
+minimum, bundled, deposit, or required payment changes that answer.
+
 ## Sources
 
 - El Paso County Land Development Code, Chapter 5: <https://library.municode.com/co/el_paso_county/codes/land_development_code?nodeId=CH5USDIST_5.6LENO>
@@ -121,6 +152,8 @@ and pilot—not a business capable of supporting a $430,000 build.
 - Planning contact and project dashboard: <https://planningdevelopment.elpasoco.com/>
 - County short-term-rental/event guidance: <https://planningdevelopment.elpasoco.com/short-term-rentals/>
 - Example RR-5 business-event-center report: <https://planningdevelopment.elpasoco.com/wp-content/uploads/PlanningCommission/2021/Staffreports/StaffreportsJuly-Dec/VA-21-001-PC-SR-with-attachments.pdf>
+- EDARP Zoning Verification Letter intake: <https://epcdevplanreview.com/Applications/Create_Email>
+- Westword Domī profile: <https://www.westword.com/food-drink/michelin-level-chef-hosting-pasta-omakase-dinner-parties-at-his-home-40808073/>
+- Denver restaurant and kitchen permits: <https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Community-Planning-and-Development/Plan-Review-Permits-and-Inspections/Commercial-and-Multifamily-Projects/Restaurants-and-Commercial-Kitchen-Permits>
 
 This is a feasibility strategy, not legal advice or an entitlement.
-

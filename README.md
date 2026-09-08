@@ -12,6 +12,8 @@ health, fire, building, water, wastewater, and financial gates are cleared.
 
 - [Design and building plan](docs/design-building-plan.md)
 - [Land-use and entitlement plan](docs/land-use-entitlement-plan.md)
+- [Site and architectural concept](docs/site-architectural-concept.md)
+- [Draft Zoning Verification Letter request](docs/zoning-verification-letter-request.md)
 - [Food-safety and permitting plan](docs/regulatory-food-plan.md)
 - [Equipment and utilities plan](docs/equipment-utilities-plan.md)
 - [Operations plan](docs/operations-plan.md)
@@ -22,6 +24,8 @@ health, fire, building, water, wastewater, and financial gates are cleared.
 - [Equipment schedule](data/equipment-schedule.csv)
 - [Risk register](data/risk-register.csv)
 - [Approval matrix](data/approval-matrix.csv)
+- [Space program](data/space-program.csv)
+- [Conceptual site relationship](visuals/kiva-site-concept.html)
 
 ## Current decisions
 
