@@ -28,6 +28,10 @@ per night, and $25,000 annual fixed operating cost:
 
 This table assumes every stated cover is sold and served. It excludes financing,
 income tax, added property tax, depreciation, major repairs, and owner return.
+“Operating contribution” means revenue less cover-variable costs, nightly direct
+costs, and annual fixed operating cost. “Event contribution” elsewhere in the
+plan excludes annual fixed operating cost and must not be used for the permanent
+35 percent margin gate.
 The 35 percent operating-margin threshold is approximately $132 per cover. A 35
 percent margin after the illustrative capital-recovery charge is approximately
 $159 per cover.
@@ -140,4 +144,3 @@ Keep food price independent of lodging and alcohol in the model:
 - Dine with Roilty private-chef pricing: <https://www.chefroilty.com/private-chef-denver>
 - Urban Farmer 2026 tasting dinner: <https://www.urbanfarmersteakhouse.com/event/2025-tasting-menu-dinner-series/>
 - SHEEP 2026 residency reporting: <https://www.axios.com/local/denver/2026/06/10/kelly-whitaker-sheep-pop-up-cherry-creek>
-

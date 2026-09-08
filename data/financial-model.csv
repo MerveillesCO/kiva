@@ -1,5 +1,5 @@
-scenario,operating_nights,average_covers,annual_covers,revenue_per_cover,revenue,variable_cost_per_cover,nightly_direct_cost,direct_cost,pilot_contribution,contribution_margin
-Minimum pilot,8,6,48,70,3360,30,250,3440,-80,-0.0238
-Base pilot,8,8,64,70,4480,30,250,3920,560,0.1250
-Sellout pilot,8,10,80,70,5600,30,250,4400,1200,0.2143
-Mature threshold,40,36,1440,105,151200,45,835,98200,53000,0.3505
+scenario,operating_nights,average_covers,annual_covers,revenue_per_cover,revenue,variable_cost_per_cover,nightly_direct_cost,event_direct_cost,event_contribution,event_contribution_margin,annual_fixed_operating_cost,operating_contribution,operating_margin
+Minimum pilot,8,6,48,70,3360,30,250,3440,-80,-0.0238,5000,-5080,-1.5119
+Base pilot,8,8,64,70,4480,30,250,3920,560,0.1250,5000,-4440,-0.9911
+Sellout pilot,8,10,80,70,5600,30,250,4400,1200,0.2143,5000,-3800,-0.6786
+Mature case at $105,40,36,1440,105,151200,45,835,98200,53000,0.3505,25000,28000,0.1852

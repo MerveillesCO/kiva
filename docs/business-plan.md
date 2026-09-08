@@ -65,7 +65,7 @@ capital recovery.
 
 ## Eight-night pilot
 
-| Case | Guests/night | Covers | Allocated revenue | Direct costs | Pilot contribution |
+| Case | Guests/night | Covers | Allocated revenue | Event direct costs | Event contribution |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Minimum | 6 | 48 | $3,360 | $3,440 | ($80) |
 | Base | 8 | 64 | $4,480 | $3,920 | $560 |
@@ -73,6 +73,8 @@ capital recovery.
 
 Direct costs include $30 per cover for food, consumables, and payment plus $250
 per operating night for food labor, sanitation/fuel, and permit allocation. The
+event contribution excludes the model's $5,000 annual fixed operating allowance.
+After that allowance, the sellout pilot has an operating loss of $3,800. The
 pilot proves product and process; it does not finance a building.
 
 ## Property-value contribution
