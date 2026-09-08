@@ -5,7 +5,7 @@ R03,water,Domestic well cannot legally or reliably serve food use,Medium,Critica
 R04,wastewater,Residential OWTS cannot accept commercial flow or grease,High,Critical,Measure pilot flow and obtain OWTS/grease determination,Written feasibility and budget,Owner,Open
 R05,fire,Solid-fuel smoker clearance or suppression cost is prohibitive,Medium,High,Submit exact listed appliance early,Fire/building pre-design response,Design lead,Open
 R06,demand,Demand is limited to eight faire weekends,High,High,Test standalone and non-faire channels,Deposit-backed sales and repeat intent,Owner,Open
-R07,economics,Contribution cannot support permanent capital,High,Critical,Require 35% margin and $150k revenue path,Trailing service data and forecast,Owner,Open
+R07,economics,Contribution cannot support permanent capital,High,Critical,Require 35% margin and revenue sufficient under actual costs with a current modeled threshold near $190k,Trailing service data and forecast,Owner,Open
 R08,property_value,Specialized improvement contributes little resale value,Medium,High,Adaptive design and appraiser plan review,Appraiser/lender/insurer opinions,Owner,Open
 R09,neighbor,Smoke traffic light or noise creates complaints,Medium,High,Site screening small reservation count and operating limits,Complaint log and dispersion tests,Owner,Open
 R10,food_safety,Time-temperature or cross-contamination failure,Medium,Critical,Approved process logs training and stop-service authority,Audit logs and corrective actions,Person in charge,Open

@@ -195,7 +195,9 @@ Do not commission permit drawings until all are true:
 - at least 12 successful permitted seasonal services;
 - at least 30 paid covers per operating night demonstrated or contracted;
 - trailing contribution margin of at least 35 percent before fixed property cost;
-- a credible annual Kiva revenue plan above $150,000; and
+- a credible annual Kiva revenue plan above the $150,000 absolute floor and,
+  under current cost/capacity assumptions, approximately $190,000 to satisfy the
+  separate 35 percent operating-margin gate; and
 - an appraiser-supported estimate of contributory property value, with acceptable
   lender, insurer, tax-classification, and resale implications; and
 - capital plan showing debt service or invested capital can be recovered within

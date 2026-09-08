@@ -116,7 +116,10 @@ supported by eight ten-person nights. At a 35 percent contribution margin and a
 ten-year simple capital-recovery target, Kiva needs at least **$123,000 annual
 revenue merely to cover $43,000 of annual capital recovery**, before financing,
 tax, depreciation, and broader property overhead. The design plan therefore sets
-a $150,000 annual revenue gate before construction.
+a $150,000 absolute annual revenue floor before construction. That floor is not
+sufficient by itself: under the current 40-night, 36-cover, and cost assumptions,
+the separate 35 percent operating-margin gate requires approximately **$190,000**
+of annual revenue, corresponding to about $132 per served cover.
 
 Illustrative mature case for testing—not a forecast:
 
@@ -205,7 +208,7 @@ base case.
 | Menu | Three rehearsals hit safety logs, service time, yield and guest score | Cooling, holding, allergy or staffing controls fail |
 | Pilot demand | At least 70% of offered seats are deposit-backed at target price | Demand depends on deep discounts or camping legality |
 | Pilot operations | 12 permitted services with no critical safety event | Repeated violations, complaints, or excessive founder labor |
-| Seasonal scale | Credible path to 1,400+ annual covers and $150,000 revenue | Eight-night demand remains the only proven market |
+| Seasonal scale | Credible path to 1,400+ annual covers, at least $150,000 revenue, and approximately $190,000 at current costs to meet the 35% margin gate | Eight-night demand remains the only proven market |
 | Building | All design-plan gates and funded contingency are met | Capital relies on optimistic alcohol, lodging, or unapproved events |
 | Property value | Appraiser supports meaningful contributory value and lender/insurer accept the use | Specialized improvements show little resale value or impair financing/insurance |
 
