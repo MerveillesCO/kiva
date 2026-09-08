@@ -32,6 +32,11 @@ small celebrations, and licensed offsite catering.
 - licensed commissary or licensed caterer
 - eight initial AfterFaire nights only after approvals
 
+Reservation-only service and small guest count reduce operating impacts, but do
+not convert food service into a lawful residential home occupation. The launch
+model is contingent on Planning identifying a temporary or discretionary land-use
+path and Public Health identifying the corresponding food-license path.
+
 ## Corrected unit economics
 
 The AfterFaire source contains both $18 and $24 food-cost assumptions. Kiva adopts
@@ -173,9 +178,11 @@ base case.
 
 ## Immediate work
 
-1. Request the $75-or-less Public Health potential-site review.
-2. Obtain written Planning determination for onsite dinners and permanent food use
-   in RR-5.
+1. Obtain written Planning classification of paid reservation suppers in RR-5,
+   including whether the use is an eating/drinking establishment, business event
+   center, agritainment, temporary use, or another category.
+2. Request the $75-or-less Public Health potential-site review only after Planning
+   identifies at least one plausible land-use path.
 3. Ask Tri-Lakes Fire for a pre-design discussion of outdoor solid-fuel smoking.
 4. Price three licensed commissaries and two licensed caterer partnerships.
 5. Convert the menu into recipe/yield/allergen/process cards.

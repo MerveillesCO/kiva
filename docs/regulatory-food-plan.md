@@ -8,6 +8,21 @@ site. Primary authorities are El Paso County Planning and Community Development,
 El Paso County Public Health, Pikes Peak Regional Building Department, and
 Tri-Lakes Monument Fire Protection District.
 
+## Land-use warning
+
+The County Land Development Code expressly excludes any form of food service,
+including restaurants and catering, from a residential home occupation. Kiva
+must not rely on a home-occupation permit merely because the owner lives onsite
+or service is small and reservation-only.
+
+Planning must classify the complete proposal—including paid meals, assembly of
+guests, frequency, relationship to lodging, outdoor smoking, employees, parking,
+and any agricultural activity. County materials define a for-profit place of
+assembly for social or similar events as a business event center, and published
+RR-5 case records state that such centers are not permitted principal uses in
+RR-5 without a variance of use. Those precedents do not decide Kiva's
+classification, but they make written Planning guidance a first-order gate.
+
 ## Recommended launch classification
 
 Request a written site review from Public Health before investing in equipment.
@@ -125,6 +140,8 @@ costs are additional. Verify all amounts at application time.
 ## Sources
 
 - El Paso County retail-food program: <https://www.elpasocountyhealth.org/licenses-permits-inspections-water-testing/retail-food/retail-food-establishments/>
+- El Paso County Land Development Code, Chapter 5: <https://library.municode.com/co/el_paso_county/codes/land_development_code?nodeId=CH5USDIST_5.6LENO>
+- El Paso County applications and checklists: <https://planningdevelopment.elpasoco.com/applications-and-checklists/>
 - El Paso County Public Health fee regulations: <https://www.elpasocountyhealth.org/about-public-health/regulations/>
 - Colorado retail-food resources: <https://cdphe.colorado.gov/retail-food/retail-food-resources>
 - Pikes Peak Regional Building permits: <https://www.pprbd.org/Home/permits>

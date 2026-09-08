@@ -1,5 +1,5 @@
 id,category,risk,likelihood,impact,primary_control,trigger_or_evidence,owner,status
-R01,land_use,Onsite paid dining or food facility is not approvable in RR-5,Medium,Critical,Written Planning determination before investment,Agency response,Owner,Open
+R01,land_use,Onsite paid dining or food facility lacks a viable RR-5 approval path,High,Critical,Exclude home occupation and obtain written classification before investment,Agency response identifying an available entitlement,Owner,Open
 R02,health,Proposed temporary model is not a qualifying special event,Medium,High,Present alternatives and obtain written classification,Public Health determination,Owner,Open
 R03,water,Domestic well cannot legally or reliably serve food use,Medium,Critical,Water-source review testing and capacity study,Written approval and test results,Owner,Open
 R04,wastewater,Residential OWTS cannot accept commercial flow or grease,High,Critical,Measure pilot flow and obtain OWTS/grease determination,Written feasibility and budget,Owner,Open
