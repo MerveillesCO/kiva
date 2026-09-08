@@ -1,0 +1,10 @@
+capital_case,project_cost,value_capture_rate,estimated_contributory_value,unrecovered_capital_before_operations
+Low cost / low value,214000,0.20,42800,171200
+Low cost / base value,214000,0.40,85600,128400
+Low cost / high value,214000,0.60,128400,85600
+Base cost / low value,430000,0.20,86000,344000
+Base cost / base value,430000,0.40,172000,258000
+Base cost / high value,430000,0.60,258000,172000
+High cost / low value,796000,0.20,159200,636800
+High cost / base value,796000,0.40,318400,477600
+High cost / high value,796000,0.60,477600,318400
