@@ -145,6 +145,44 @@ Paso County whether a genuinely private, host-invited meal with no required
 payment is outside its land-use regulation, and separately whether any suggested,
 minimum, bundled, deposit, or required payment changes that answer.
 
+## Private-club hypothesis
+
+A membership screen does not automatically change the physical land use. Kiva
+would still bring recurring diners, workers, cooking, smoke, parking, sanitation,
+and commercial activity to a residential parcel. The County home-occupation rule
+also excludes **any form of food service**; it does not publish a member-only
+exception. If the County has no listed private-club use available in RR-5, the
+name cannot create one.
+
+A bona fide club is materially different from a pay-to-enter restaurant. Common
+indicators include an independent social, cultural, educational, fraternal, or
+recreational purpose; meaningful governance and member rights; selective and
+non-instant membership; durable operations beyond meal sales; and food that is
+incidental to the organization's purpose. A one-click membership, dues equal to
+a meal price, automatic admission, or a club organized primarily to sell dinners
+would be weak facts and could look like form over substance.
+
+Colorado's liquor-law “club” category is especially narrow. It generally requires
+a nonprofit-type national, social, fraternal, patriotic, political, or athletic
+organization with three years of incorporation, dues-paying membership, and
+occupancy—not a new for-profit dining club. That definition governs a club liquor
+license, not zoning, and does not legalize food service or assembly at this parcel.
+
+There is one food-law issue worth a written ruling: Colorado's retail-food
+definition excludes qualifying food activity by a nonprofit or charitable
+organization in conjunction with an event or celebration, subject to limits that
+include no more than 52 days per calendar year and operation in its home county.
+Even if a properly formed organization qualified, that is a retail-food licensing
+exception—not a zoning entitlement, building approval, fire approval, permission
+to use a private residential kitchen, or permission to distribute profit to the
+owner. Organization form must follow a real mission and governance model; it
+should not be adopted solely to evade regulation.
+
+**Conclusion:** keep “bona fide private social/cultural club with incidental
+member suppers” as a question in the Zoning Verification Letter, not as the launch
+assumption. It is potentially useful only if Merveilles genuinely wants the club
+itself, independent of Kiva's restaurant economics.
+
 ## Sources
 
 - El Paso County Land Development Code, Chapter 5: <https://library.municode.com/co/el_paso_county/codes/land_development_code?nodeId=CH5USDIST_5.6LENO>
@@ -155,5 +193,7 @@ minimum, bundled, deposit, or required payment changes that answer.
 - EDARP Zoning Verification Letter intake: <https://epcdevplanreview.com/Applications/Create_Email>
 - Westword Domī profile: <https://www.westword.com/food-drink/michelin-level-chef-hosting-pasta-omakase-dinner-parties-at-his-home-40808073/>
 - Denver restaurant and kitchen permits: <https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Community-Planning-and-Development/Plan-Review-Permits-and-Inspections/Commercial-and-Multifamily-Projects/Restaurants-and-Commercial-Kitchen-Permits>
+- Colorado Liquor Code: <https://sbg.colorado.gov/sites/sbg/files/documents/2025_Liquor_Code.pdf>
+- Colorado Food Protection Act, Title 25, Article 4, Part 16: <https://content.leg.colorado.gov/sites/default/files/images/olls/crs2024-title-25.pdf>
 
 This is a feasibility strategy, not legal advice or an entitlement.

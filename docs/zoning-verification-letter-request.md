@@ -73,8 +73,15 @@ wastewater, drainage, wildfire, fire-district, or neighborhood review.
 4. Could supper qualify as supplemental agritainment only with a bona fide
    agricultural use, and is that category available on this RR-5 parcel?
 5. Would any paid supper constitute a business event center in this district?
-6. What application secures a determination on which the owner may rely?
-7. What current fees and additional submissions would follow from each available
+6. Would a bona fide private social or cultural club serving meals only to
+   established members and their guests have a different land-use classification?
+   If so, please identify the defining facts, whether that use is available in
+   RR-5, and whether meals must be incidental to a noncommercial club purpose.
+7. Would dues, an application or waiting period, member governance, nonprofit
+   organization, or a members-only reservation system affect the result—or would
+   recurring meal service remain restaurant, event-center, or other food service?
+8. What application secures a determination on which the owner may rely?
+9. What current fees and additional submissions would follow from each available
    path?
 
 Please reference the controlling code provisions and note any facts that require

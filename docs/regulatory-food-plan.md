@@ -38,6 +38,24 @@ service is prohibited. Extensive preparation must occur at the event's licensed
 establishment or an approved licensed commissary. New fixed establishments
 require plan review before construction.
 
+## Private home and private-club boundaries
+
+Colorado's retail-food definition covers providing food to consumers on or off
+the premises **whether or not there is a charge**. Although the statute excludes
+“any private home,” the food rules prohibit conducting food-establishment
+operations in a private home, living/sleeping room, or an area directly opening
+into one. State law also prohibits a retail food establishment from selling or
+serving food prepared in a private home. The private-home language is therefore
+not a reliable authorization for a recurring home restaurant.
+
+Calling diners members does not create a general health-code exception. A
+separate statutory exclusion may apply to qualifying nonprofit or charitable
+organizations serving food with an event or celebration for no more than 52 days
+in a calendar year in the organization's county. Public Health must determine
+whether a proposed Merveilles organization, event series, kitchen, menu, and
+service method actually fit that exclusion. Even a favorable food ruling would
+not resolve zoning, building, fire, water, wastewater, or tax requirements.
+
 ## Current building-code basis
 
 As of June 30, 2026, Pikes Peak Regional Building Department identifies the 2023
