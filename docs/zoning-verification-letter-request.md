@@ -38,8 +38,9 @@ facts that would change that conclusion.
   Public Health, potentially using a licensed caterer or commissary
 - Listed outdoor smoker and temporary covered finishing/service setup
 - Existing onsite driveway and parking, subject to required review
-- Proposed portable toilet immediately north of the existing barn, subject to
-  accessibility, sanitation, servicing, screening, and agency approval
+- Two proposed portable toilets: one immediately north of the existing barn and
+  one on the west side screened just behind the garage, subject to accessibility,
+  sanitation, servicing, screening, and agency approval
 - No permanent commercial-food construction during the pilot
 
 Please identify whether this is an eating/drinking establishment, business event

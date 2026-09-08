@@ -20,11 +20,13 @@ satellite and parcel graphics do not establish surveyed boundaries, well and
 onsite-wastewater components, utility easements, contours, fire access, or mature
 tree protection zones.
 
-The owner identifies the proposed portable toilet location as immediately north
-of the barn. Show that location on the survey and agency exhibits. Do not count it
-as satisfying Kiva's guest, staff, handwashing, accessibility, or wastewater
-requirements until each reviewing authority accepts the arrangement, route,
-service access, screening, and maintenance plan.
+The owner identifies two proposed portable-toilet locations: one immediately
+north of the barn and a second on the west side, screened just behind the garage.
+The western unit is the likely closer Kiva sanitation option. Show both on the
+survey and agency exhibits. Do not count either as satisfying Kiva's guest,
+staff, handwashing, accessibility, or wastewater requirements until each
+reviewing authority accepts the arrangement, measured route, service access,
+screening, lighting, and maintenance plan.
 
 ## Site organization
 
@@ -36,11 +38,13 @@ existing entry and service drive
               v
      [delivery / fire approach]
               |
-     [portable toilet]
+ [portable toilet A]
              |
           [barn / service support]
                     |
- [secured smoker]--[KIVA]--[open patio]--[house]
+ [toilet B behind garage]
+             |
+ [secured smoker]--[KIVA]--[open patio]--[house / garage]
           |          |
  [ash + refuse]  [clean pass]
                     |
@@ -74,8 +78,10 @@ return path.
 - Keep all guest and staff parking onsite. Do not count Capella Drive shoulder.
 - Provide an accessible parking space and continuous firm, stable, slip-resistant
   route if required by the approved use and occupancy.
-- Measure the actual route from Kiva and the patio to the portable toilet north of
-  the barn; determine whether a separate accessible unit and lighting are required.
+- Measure the actual route from Kiva and the patio to both portable toilets. Test
+  the western unit behind the garage as the primary Kiva location and determine
+  whether an accessible unit, handwash station, lighting, and screened waiting
+  area are required.
 - Separate guest arrival from delivery and hot-work movements with distance,
   barriers, scheduling, or all three.
 
